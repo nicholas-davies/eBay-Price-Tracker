@@ -16,7 +16,7 @@ This Python script enables users to scrape eBay product information, focusing on
 
 ## How to Use
 
-1. Run the script and input the eBay URL with the desired filters (ensure the 'sold' filter is selected).
+1. Run the script and input the eBay URL with the desired filters (ensuring the 'sold' filter is selected).
 2. The script will retrieve and process the data, displaying product information in the console.
 3. The extracted data is saved to a CSV file for further analysis.
 
@@ -26,8 +26,5 @@ This Python script enables users to scrape eBay product information, focusing on
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [Pandas](https://pandas.pydata.org/)
 
-## Usage Example
 
-```python
-# Run the script
-python ebay_price_scraper.py
+
